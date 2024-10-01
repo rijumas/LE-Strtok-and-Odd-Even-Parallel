@@ -1,0 +1,8 @@
+Hola mundo
+Soy Oscar
+With the coming of multicore processors and the cloud, parallel computing is most cer-
+tainly not a niche area off in a corner of the computing world. Parallelism has become
+central to the efficient use of resources, and this new textbook by Peter Pacheco will go a
+long way toward introducing students early in their academic careers to both the art and
+practice of parallel computing.
+Duncan Buell
